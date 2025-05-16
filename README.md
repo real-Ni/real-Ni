@@ -1,4 +1,4 @@
-# Nitansh - web designer
+<img src="/Users/nitansh/Downloads/github.png" />
 
 
 🌱 I’m currently learning Git <br> ✉️ You can reach me on nitanshsachdev@gmail.com
