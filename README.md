@@ -1,5 +1,9 @@
 # Nitansh - web designer
 
+h1 {
+    🌱 I’m currently learning Git
+    ✉️ You can reach me on nitanshsachdev@gmail.com
+}
 <!--
 **real-Ni/real-Ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
